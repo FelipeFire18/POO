@@ -68,6 +68,7 @@ public class Usuario {
         else{
             float valor = (float) (valor_med * 0.1);
             return valor;
+            
         }
     }
 }
